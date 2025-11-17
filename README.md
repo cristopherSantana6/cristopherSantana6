@@ -1,6 +1,6 @@
 ## 
 ![texto alternativo](https://private-user-images.githubusercontent.com/74038190/242390524-0c7eb6ed-663b-4ce4-bfbd-18239a38ba1b.gif?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NjMzOTk2MDcsIm5iZiI6MTc2MzM5OTMwNywicGF0aCI6Ii83NDAzODE5MC8yNDIzOTA1MjQtMGM3ZWI2ZWQtNjYzYi00Y2U0LWJmYmQtMTgyMzlhMzhiYTFiLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTExMTclMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUxMTE3VDE3MDgyN1omWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWM4NzU0YmRlZTA4ZmE1ZDUyMTZhNTJkZDc3ZmEzMDE0ZDQ3NDJiZmVhZThiNmZmZjRhZGYwNGRiMmE4MjI5YWImWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.yO1KXvdXPkcTkZI4BchlC9R0ifsH4CoHrH9TwKR2N3c)
 
-[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=cristopherSantana6&data=followers,repositories,stars,commits&theme=nautilus)](https://github.com/Jurredr/github-widgetbox)
+[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=cristopherSantana6&data=followers,repositories,stars,commits&theme=nautilus)](https://github.com/cristopherSantana6/github-widgetbox)
 
 ![texto alternativo](https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif)  ![texto alternativo](https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif)
